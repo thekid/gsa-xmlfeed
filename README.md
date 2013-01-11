@@ -1,6 +1,6 @@
 gsa-xmlfeed
 ===========
-Feed API for Google Search Appliance (GSA)
+Feed API for [Google Search Appliance (GSA)](http://www.google.com/enterprise/search/)
 
 
 Usage example (XP Language)
